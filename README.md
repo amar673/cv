@@ -1,16 +1,1 @@
-<title>
-    
-</title>
-<body>
-    <h1><p>Bengaluru max temperature drops to 24.3°C, coldest day in May in 10 years</h1><hr>
-    <h4><p>Bengaluru has been seeing cloudy skies and rains for the past few days as an effect of Cyclone Asani, which has made landfall in Andhra Pradesh.</p></h4>
-    <img src="D:\HTML\news.jpg"length="700px">
-    <p>As parts of south India reel under the effects of Cyclone Asani, Bengaluru also has been seeing cloudy skies and rains over the past few days. As a result, mercury levels have dropped, prompting residents in the city to dig out their winter wear. According to weather bloggers, Wednesday, May 11, was among the coldest days the city has seen in the past few years. The India Meteorological Department (IMD) confirmed this, adding that the chilly weather is a result of the cyclone which made landfall on the Andhra Pradesh coast late on Wednesday. According to the IMD, May 11 was the coldest day since 2012, with a minimum temperature of 19.5°C and maximum temperature of 24°C. The coldest day in May in recent history in Bengaluru was on May 14, 1972 when the highest temperature recorded was 22.2°C.
-
-As per their bulletin at 8.30 am on Thursday, Bengaluru city saw a maximum temperature of 25°C, while the minimum temperature dropped to as low as 19.5°C. At its station at the Kempegowda International Airport, the IMD recorded a maximum temperature of 26.3°C and a minimum temperature of 20°C. The weather station at the HAL airport recorded the lowest temperature at 18°C, while the maximum temperature there was 25.8°C.
-<img src="D:\HTML\img.png"width="1000px">
-
-In 2021, the lowest temperature recorded in the city in the month of May was 20.4°C, while in 2020, mercury dipped to about 20.2°C, the IMD said. In its bulletin on Thursday morning, the weather body predicted that in the next 24 hours, Bengaluru will continue to see cloudy skies and will very likely see rains as well. The maximum temperature during this period is expected to be around 25°C, while the minimum temperature will likely be around 20°C. The weather forecast for the next 48 hours is the same as well, with respect to rains and cloudy skies.</p>
-<h4><p>The version of the Bill that was passed in the Karnataka Assembly will now be made into an ordinance that will be sent for the Governor’s consent. “For various reasons, we did not table the Bill in the council so we decided to pass an ordinance since we have provisions in the Constitution to do so. In the coming days, we will table and have it passed in the council too. We cannot do it now since the session is not in motion,” Karnataka Law Minister JC Madhuswamy told reporters in Bengaluru.</h4></p>
-<img src="D:\HTML\img.png"width="1000px">
-</body>
+#cv
